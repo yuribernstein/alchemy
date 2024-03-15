@@ -1,0 +1,20 @@
+prod:
+  application:
+    name: alchemy
+    version: 1.0.0
+  db:
+    host: localhost
+    port: 5432
+    user: alchemy
+    password: alchemy
+    database: alchemy
+dev:
+  application:
+    name: alchemy
+    version: 1.0.0
+  db:
+    host: localhost
+    port: 5432
+    user: alchemy
+    password: alchemy
+    database: alchemy    
